@@ -458,6 +458,7 @@ line-height: 1.14;
         justify-content: center;
         align-items: center;
         border-radius: 4px;
+        
 
     
 }
@@ -507,6 +508,7 @@ line-height: 1.14;
         display: flex;
             justify-content: center;
             align-items: center;
+            fill:#AFB1B8;
 
     }
     .social-elements:hover,
@@ -562,6 +564,7 @@ line-height: 1.14;
             border-radius: 4px;
     display: flex;
     cursor: pointer;
+    fill:#AFB1B8;
     
         }
         .partners-list:hover,
